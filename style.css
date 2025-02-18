@@ -1,8 +1,14 @@
 h1 {
     color: blue;
 }
+h2 {
+    color: blue;
+}
+h3 {
+    color: blue;
+}
 body {
-    color: yellow;
+    color: palegreen;
     font-size: 10px;
 }
 .box {
