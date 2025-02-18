@@ -6,9 +6,10 @@ body {
     font-size: 10px;
 }
 .box {
-    height: 100px;
-    width: 200px;
-    padding: 20px;
-    margin: 50px;
-    border: 10px;
+    height: auto;
+    width: auto;
+    padding: 10px;
+    margin: 10px;
+    border: 5px;
+    background-color: aqua;
 }
