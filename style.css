@@ -19,3 +19,10 @@ body {
     border: 20px black;
     background-color: aqua;
 }
+.box2 {
+    height: auto;
+    width: auto;
+    padding: 30px 40px;
+    background-color: bisque;
+
+}
